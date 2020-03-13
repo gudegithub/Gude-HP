@@ -19,7 +19,7 @@ http://www.php-factory.net/
 下記のreset cssを使用し、このファイルに含めている。<br>
 http://meyerweb.com/eric/tools/css/reset/
 - slick<br>
-下記のライブラリのファイルが入っている。
-https://kenwheeler.github.io/slick/<br>
+下記のライブラリのファイルが入っている。<br>
+https://kenwheeler.github.io/slick/
 - js/master.js<br>
 slick.jsの読み込みと設定。
